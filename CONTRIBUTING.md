@@ -1,5 +1,9 @@
 Thank you for taking an interest in contributing to Aqua's open source projects!
 
+## Community meetings
+
+Our [community meetings](https://hackmd.io/v0x8w2RoQM2N-M_UfSByRQ) are open to all, you are welcome to join us! 
+
 ## Issues
 
 - Feel free to open an issue for any reason as long as you make it clear if the issue is about a bug/feature/question/comment.
